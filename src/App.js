@@ -6,7 +6,7 @@ import EditForm from "./components/EditForm";
 
 import axios from "axios";
 
-const url = "https://testappmattyth3.herokuapp.com/api";
+const url = "https://simpleserverconfig.herokuapp.com/api";
 
 const App = () => {
   useEffect(() => {
